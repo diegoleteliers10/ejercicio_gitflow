@@ -1,4 +1,4 @@
 function laCajaDePandora(numero){
   //escribir codigo aqui
-  let putoElQueLee = true
+  let putoElQueLee = false
 };
